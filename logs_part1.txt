@@ -1,0 +1,22 @@
+macbookpros-MacBook-Pro:hillel_fedchenko tanya$ git reflog
+0e319cf (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+5d27cb0 HEAD@{1}: checkout: moving from release to master
+0e319cf (HEAD -> master, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+cfa4860 HEAD@{3}: checkout: moving from test to release
+0e319cf (HEAD -> master, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+6d186f1 HEAD@{5}: checkout: moving from develop to test
+0e319cf (HEAD -> master, test, release, develop) HEAD@{6}: commit (merge): development/release merge
+6d186f1 HEAD@{7}: merge test: Fast-forward
+8193581 HEAD@{8}: checkout: moving from release to develop
+cfa4860 HEAD@{9}: commit: index changes
+cfd6141 HEAD@{10}: commit: styles
+8193581 HEAD@{11}: checkout: moving from develop to release
+8193581 HEAD@{12}: checkout: moving from test to develop
+6d186f1 HEAD@{13}: commit: index img source added
+daba713 HEAD@{14}: commit: images added
+8193581 HEAD@{15}: checkout: moving from develop to test
+8193581 HEAD@{16}: commit: index added
+5d27cb0 HEAD@{17}: checkout: moving from master to develop
+5d27cb0 HEAD@{18}: commit: readme added
+63521b0 (origin/master, origin/HEAD) HEAD@{19}: pull: Fast-forward
+0706566 HEAD@{20}: clone: from https://github.com/tatafalkovski/hillel_fedchenko.git
